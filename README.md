@@ -100,4 +100,4 @@ Each RNN variant is specialized for different tasks.
 - **BiRNN** → Context-aware predictions.  
 - **VRNN/HRNN/NTM** → Advanced reasoning & generation.  
 
-🔗 Explore the implementations in **PyTorch** in this repository!
+🔗 Explore the implementations in this repository!
